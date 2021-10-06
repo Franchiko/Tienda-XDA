@@ -1,0 +1,51 @@
+.main_hero-section{
+    position: relative;
+}
+
+
+.hero-section{
+    width: 50%;
+    background-color: $white;
+    padding: 0.5rem;
+    
+}
+
+.title_hero-section{
+    padding-left: 3.5rem;
+    margin: 1rem;
+    font-family: $old-standar-TT;
+    font-size: $xxx-large;
+    font-weight: $bold;
+    text-align: start;
+}
+
+.parrafo_hero-section{
+    padding-left: 3.5rem;
+    margin: 1rem;
+    font-family: $raleway;
+    font-size: $medium;
+    font-weight: $regular;
+    color: $quick-silver;
+    text-align: start;
+    width: 60%;
+}
+
+button {
+    position: relative;
+    left: 6%;
+    padding: 0.5rem;
+    margin: 2rem;
+    font-family: $raleway;
+    font-weight: $bold;
+}
+
+.button_hero-section{
+    padding: 0.7rem 2rem;
+}
+
+.img_hero-section{
+    position: absolute;
+    top: 0%;
+    left: 48.5%;
+    width: 50%;
+}
